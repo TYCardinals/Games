@@ -1,4 +1,4 @@
-#Battleship
+# Battleship
 
 Battleship is a classic game where one player tries to sink the computer's ships. In this game, the computer has a board with
 hidden ships and the player takes turns guessing where the computer's ships are located. The game ends when the player has sunk
